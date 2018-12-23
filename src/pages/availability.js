@@ -41,15 +41,7 @@ class Availability extends Component {
 
       target.appendChild(textnode);
       target.appendChild(checkbox);
-
-      if(count === 4){
-        count = 0;
-        target.appendChild(textnode2);
-      }
-      else{
-        count++;
-
-      }
+      target.appendChild(textnode2);
     }
   }
 
