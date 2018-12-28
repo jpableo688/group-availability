@@ -8,12 +8,12 @@ class Home extends Component {
     super(props);
 
     var config = {
-      apiKey: "AIzaSyCISwcFPRGB-nMJ6iU4aXfEfLSXxNiuGts",
-      authDomain: "group-availability.firebaseapp.com",
-      databaseURL: "https://group-availability.firebaseio.com",
-      projectId: "group-availability",
-      storageBucket: "group-availability.appspot.com",
-      messagingSenderId: "952090037085"
+      apiKey: "",
+      authDomain: "",
+      databaseURL: "",
+      projectId: "",
+      storageBucket: "",
+      messagingSenderId: ""
     };
     this.app = firebase.initializeApp(config);
     this.database = this.app.database().ref().child("submissions");
