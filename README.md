@@ -2,6 +2,18 @@
 - A quick utility/application to view your friend's availability.
 - Each user can view days where everyone is available enter in their availability.
 
+Home Screen:
+<img src="https://github.com/jpableo688/group-availability/blob/master/public/github/home.png" width="800" height="400" />
+
+Availability Submission Screen:
+
+<img src="https://github.com/jpableo688/group-availability/blob/master/public/github/submission.png" width="300" height="400" />
+
+Sample Firebase Data:
+
+<img src="https://github.com/jpableo688/group-availability/blob/master/public/github/firebase.png" width="200" height="400" />
+
+
 ## Usage
 Host on a web hosting site. The current build is capable of being hosted on Heroku easily.
 
