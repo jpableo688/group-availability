@@ -2,14 +2,14 @@
 - A quick utility/application to view your friend's availability.
 - Each user can view days where everyone is available enter in their availability.
 
-Home Screen:
+__Home Screen:__
 <img src="https://github.com/jpableo688/group-availability/blob/master/public/github/home.png" width="800" height="400" />
 
-Availability Submission Screen:
+__Availability Submission Screen:__
 
 <img src="https://github.com/jpableo688/group-availability/blob/master/public/github/submission.png" width="300" height="400" />
 
-Sample Firebase Data:
+__Sample Firebase Data:__
 
 <img src="https://github.com/jpableo688/group-availability/blob/master/public/github/firebase.png" width="200" height="400" />
 
